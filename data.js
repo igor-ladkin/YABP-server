@@ -3,7 +3,7 @@ var faker = require('faker');
 module.exports = {
   about: {
     avatar: {
-      src: '/dist/img/my_avatar.png',
+      src: '/img/my_avatar.png',
       alt: 'avatar',
     },
     title: 'Very special, very unique blog about superheroes and unicors',
@@ -13,7 +13,7 @@ module.exports = {
     {
       id: '1',
       image: {
-        src: '/dist/img/iron_man.jpg',
+        src: '/img/iron_man.jpg',
         alt: 'Iron Man',
       },
       meta: {
@@ -29,7 +29,7 @@ module.exports = {
     {
       id: '2',
       image: {
-        src: '/dist/img/ant_man.jpg',
+        src: '/img/ant_man.jpg',
         alt: 'Ant Man',
       },
       meta: {
@@ -45,7 +45,7 @@ module.exports = {
     {
       id: '3',
       image: {
-        src: '/dist/img/winter_soldier.jpg',
+        src: '/img/winter_soldier.jpg',
         alt: 'Winter Soldier',
       },
       meta: {
@@ -61,7 +61,7 @@ module.exports = {
     {
       id: '4',
       image: {
-        src: '/dist/img/falcon.jpg',
+        src: '/img/falcon.jpg',
         alt: 'Falcon',
       },
       meta: {
@@ -77,7 +77,7 @@ module.exports = {
     {
       id: '5',
       image: {
-        src: '/dist/img/war_machine.jpg',
+        src: '/img/war_machine.jpg',
         alt: 'War Machine',
       },
       meta: {
@@ -93,7 +93,7 @@ module.exports = {
     {
       id: '6',
       image: {
-        src: '/dist/img/captain_america.jpg',
+        src: '/img/captain_america.jpg',
         alt: 'Captain America',
       },
       meta: {
@@ -109,7 +109,7 @@ module.exports = {
     {
       id: '7',
       image: {
-        src: '/dist/img/black_widow.jpg',
+        src: '/img/black_widow.jpg',
         alt: 'Black Widow',
       },
       meta: {
@@ -125,7 +125,7 @@ module.exports = {
     {
       id: '8',
       image: {
-        src: '/dist/img/hawkeye.jpg',
+        src: '/img/hawkeye.jpg',
         alt: 'Hawkeye',
       },
       meta: {
@@ -141,7 +141,7 @@ module.exports = {
     {
       id: '9',
       image: {
-        src: '/dist/img/black_panther.jpg',
+        src: '/img/black_panther.jpg',
         alt: 'Black Panther',
       },
       meta: {
@@ -157,7 +157,7 @@ module.exports = {
     {
       id: '10',
       image: {
-        src: '/dist/img/vision.jpg',
+        src: '/img/vision.jpg',
         alt: 'Vision',
       },
       meta: {
@@ -173,7 +173,7 @@ module.exports = {
     {
       id: '11',
       image: {
-        src: '/dist/img/scarlet_witch.jpg',
+        src: '/img/scarlet_witch.jpg',
         alt: 'Scarlet Witch',
       },
       meta: {
